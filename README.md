@@ -1,4 +1,4 @@
-# macOS on Lenovo Msi-bravo-15 - Ryzen 5600H
+# macOS on Msi-bravo-15 - Ryzen 5600H
 
 
 ## Specifications
