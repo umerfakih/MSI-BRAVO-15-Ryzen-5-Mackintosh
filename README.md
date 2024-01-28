@@ -9,7 +9,7 @@
 | CPU  |  AMD Ryzen™ 5 5600H Processor IGPU |
 |  DGPU | AMD Radeon RX 5500M Disabled |
 | RAM  | 2x 8GB  DDR4 2400/3200 MHz  |
-| NVMe  | Kingston SNV2S1000G 1TB for macOS / Micron MTFDHBA512QFD 512gb for Windows 11  |
+| NVMe  | 128 external SSD for Mac os / Micron MTFDHBA512QFD 512gb for Windows 11  |
 | WIFI  | Intel® Wi-Fi 6E AX210  |
 | Bluetooth  | With Intel wifi combo card  |
 | Ethernet  | Realtek RTL8111  |
