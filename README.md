@@ -25,9 +25,9 @@
 | --- | --- | --- |
 | CPU | ✅ | AMD Vanilla Kernel Patches ([Modify according to yours Core Count](https://github.com/AMD-OSX/AMD_Vanilla)) |
 | HDMI A/V out | ✅ |   |
-| USB | ✅ | All ports working with **GUX-RyzenXHCIFix** (New fork of GenericUSBXHCI)|
+| USB | ✅ | All ports working with USBToolBox.kext|
 | Keyboard | ✅ | Voodoops2controller Kext + Karabiner-Elements app for mapping |
-| Audio | ✅ | AppleALC kext working with layout-id 21 |
+| Audio | ✅ | AppleALC kext working with layout-id 3 |
 | Trackpad | ✅ | VoodooI2C |
 | Ethernet | ✅ | RealtekRTL8111 Kext |
 | Intel WIFI | ✅ | AirportItlwm Kext |
